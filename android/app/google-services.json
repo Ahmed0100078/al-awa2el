@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "267557924375",
+    "project_id": "alawael-75154",
+    "storage_bucket": "alawael-75154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267557924375:android:b547dbadc0ef30087c7652",
+        "android_client_info": {
+          "package_name": "com.elnooronline.alawael"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267557924375-jaoeb8t38vibf91aislr339i9fd6pec1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elnooronline.alawael",
+            "certificate_hash": "39b057f6cb9d8fd73c4e0ffc6daed95cbadfc8b8"
+          }
+        },
+        {
+          "client_id": "267557924375-nbr0t2q4ibf9t6d4716vjgvn8eg1eu8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elnooronline.alawael",
+            "certificate_hash": "bab6571a04a77f70afd60a1c248abb4c8d84592e"
+          }
+        },
+        {
+          "client_id": "267557924375-1je7tg23ihhpui8oj7n3203nenn4tiph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvbxw8R5zXkHBVOy0OftaAK0d3SWMdUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267557924375-1je7tg23ihhpui8oj7n3203nenn4tiph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267557924375-j2f0kquhf3h6af51a39k99lub2tcvu1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yalladelivery.yallaDeliveryResturant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267557924375:android:ced0074654fc7c9b7c7652",
+        "android_client_info": {
+          "package_name": "com.yalladelivery.yallaDeliveryResturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267557924375-1je7tg23ihhpui8oj7n3203nenn4tiph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvbxw8R5zXkHBVOy0OftaAK0d3SWMdUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267557924375-1je7tg23ihhpui8oj7n3203nenn4tiph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267557924375-j2f0kquhf3h6af51a39k99lub2tcvu1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yalladelivery.yallaDeliveryResturant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
